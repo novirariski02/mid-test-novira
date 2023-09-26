@@ -9,7 +9,6 @@ def add_str(input_string):
 
     return output_string
 
-# Example usage:
 input_string = input("Masukkan angka: ")
 result = add_str(input_string)
 print(result)
